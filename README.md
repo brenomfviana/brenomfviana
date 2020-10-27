@@ -20,6 +20,11 @@ Here are some ideas to get you started:
 - 🎓 I'm currently MSc student in Computer Science at USP-ICMC.
 - 📫 How to reach me: [bmfviana@gmail](mailto:bmfviana@gmail), [Twitter](https://twitter.com/brenomfviana), [DEV](https://dev.to/brenov), [LinkedIn](https://www.linkedin.com/in/brenomfviana).
 
+<!-- <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=brenov&theme=graywhite" width="700" />
+</p> -->
+
+
 <img align="left" alt="Breno's Github Stats" src="https://github-readme-stats.vercel.app/api?username=brenov&theme=graywhite&count_private=true&show_icons=true" />
 
 <!--
