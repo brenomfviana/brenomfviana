@@ -1,6 +1,6 @@
 ### Hi there, I'm Breno 👋
 
-I'm an aspiring researcher in PCG for games and an opensource enthusiastic.
+I'm an aspiring researcher in PCG and AI for games and an opensource enthusiastic.
 
 <!--
 **brenov/brenov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 I'm currently MSc student in Computer Science at USP-ICMC.
+- 🎓 I'm currently MSc student in Computer Science at ICMC-USP.
 - 📫 How to reach me: [bmfviana@gmail](mailto:bmfviana@gmail), [Twitter](https://twitter.com/brenomfviana), [DEV](https://dev.to/brenov), [LinkedIn](https://www.linkedin.com/in/brenomfviana).
 
 <!-- <p align="center">
