@@ -1,14 +1,17 @@
-### Hi there, I'm Breno 👋
+## Hi there, I'm Breno 👋
 
-I'm an aspiring researcher in PCG and AI for games and an opensource enthusiastic.
+I'm an aspiring researcher in PCG and AI for games and enthusiastic about open-source projects.
+My interests lay in Evolutionary Systems, and Machine Learning applied to games.
 
 <!--
 **brenov/brenov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-->
+- 🎓 I'm currently MSc student in Computer Science at ICMC-USP.
+- 🔭 I’m currently working on game content generation.
+- 🌱 I’m currently learning Unity3D.
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -17,13 +20,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 I'm currently MSc student in Computer Science at ICMC-USP.
-- 📫 How to reach me: [bmfviana@gmail](mailto:bmfviana@gmail), [Twitter](https://twitter.com/brenomfviana), [DEV](https://dev.to/brenov), [LinkedIn](https://www.linkedin.com/in/brenomfviana).
+### 📫 How to reach me
+
+- [bmfviana@gmail](mailto:bmfviana@gmail);
+- [Twitter](https://twitter.com/brenomfviana);
+- [DEV](https://dev.to/brenov);
+- [ORCID](https://orcid.org/0000-0003-3441-508X);
+- [LinkedIn](https://www.linkedin.com/in/brenomfviana).
 
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=brenov&theme=graywhite" width="700" />
 </p> -->
-
 
 <img align="left" alt="Breno's Github Stats" src="https://github-readme-stats.vercel.app/api?username=brenov&theme=graywhite&count_private=true&show_icons=true" />
 
