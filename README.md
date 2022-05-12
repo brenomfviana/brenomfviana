@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Breno Viana 👋
+
+I'm an MSc in Computing, a specialist in Procedural Content Generation, and enthusiastic about programming and open-source projects.
+
+My interests lay mainly in Procedural Content Generation, Evolutionary Systems, and Artificial Intelligence applied to games.
+
+
+### 📫 How to reach me
+
+- [linktr.ee/brenomfviana](https://linktr.ee/brenomfviana);
+
 
 <!--
 **brenomfviana/brenomfviana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
