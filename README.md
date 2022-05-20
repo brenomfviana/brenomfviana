@@ -7,7 +7,8 @@ My interests lay mainly in Procedural Content Generation, Evolutionary Systems, 
 - 🔭 I’m currently working on personal projects;
 - 👯 I’m looking to collaborate on Game Development;
 - 📫 How to reach me: [linktr.ee/brenomfviana](https://linktr.ee/brenomfviana);
-- 😄 Pronouns: He/Him.
+- 😄 Pronouns: He/Him;
+- Old GitHub: [@brenov](https://github.com/brenov).
 
 
 
