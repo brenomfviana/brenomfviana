@@ -1,6 +1,6 @@
 ## Hi there, I'm Breno 👋
 
-My new GitHub account: [brenomfviana](https://github.com/brenomfviana).
+<!-- My new GitHub account: [brenomfviana](https://github.com/brenomfviana). -->
 
 I'm an MSc in Computing, a specialist in Procedural Content Generation, and enthusiastic about programming and open-source projects.
 
