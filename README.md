@@ -15,7 +15,7 @@ I have another GitHub account where I focus on personal game-related projects: [
 
 ### Summary
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brenov&theme=white&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brenov&theme=white&ring=474b4f&hide_border=true&currStreakNum=24292e&fire=474b4f&currStreakLabel=3d3d3d)](https://git.io/streak-stats)
 
 <img align="left" alt="Breno's Github Stats" src="https://github-readme-stats.vercel.app/api?username=brenov&theme=graywhite&count_private=true&show_icons=true" />
 
