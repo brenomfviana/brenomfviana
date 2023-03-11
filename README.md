@@ -4,8 +4,6 @@ I'm an MSc in Computing, a specialist in Procedural Content Generation, and enth
 
 My interests lay mainly in Evolutionary Systems, Artificial Intelligence, and Procedural Content Generation for games.
 
-I have another GitHub account where I focus on personal game-related projects: [brenomfviana](https://github.com/brenomfviana).
-
 
 ### 📫 How to reach me
 
