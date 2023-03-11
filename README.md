@@ -13,14 +13,14 @@ My interests lay mainly in Evolutionary Systems, Artificial Intelligence, and Pr
 
 ### Summary
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brenov&theme=white&ring=474b4f&hide_border=true&currStreakNum=24292e&fire=474b4f&currStreakLabel=3d3d3d)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brenomfviana&theme=white&ring=474b4f&hide_border=true&currStreakNum=24292e&fire=474b4f&currStreakLabel=3d3d3d)](https://git.io/streak-stats)
 
-![Breno's Github Stats](https://github-readme-stats.vercel.app/api?username=brenov&theme=graywhite&count_private=true&show_icons=true)
+![Breno's Github Stats](https://github-readme-stats.vercel.app/api?username=brenomfviana&theme=graywhite&count_private=true&show_icons=true)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=brenov)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=brenomfviana)
 
 <!--
-**brenov/brenov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**brenomfviana/brenomfviana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
