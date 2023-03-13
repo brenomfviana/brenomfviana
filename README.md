@@ -1,6 +1,6 @@
 ## Hi there, I'm Breno 👋
 
-I'm a Backend Developer at ![Imobanco](https://github.com/imobanco), MSc in Computing (with a specialist in Procedural Content Generation) and enthusiastic about programming and open-source projects.
+I'm Backend Developer at ![Imobanco](https://github.com/imobanco), MSc in Computing (with a specialist in Procedural Content Generation) and enthusiastic about programming and open-source projects.
 
 My interests lay mainly in Evolutionary Systems, Artificial Intelligence, and Procedural Content Generation for games.
 
