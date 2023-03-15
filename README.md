@@ -1,13 +1,37 @@
 <h2 align="center"> Hi there, I'm Breno 👋 </h2>
 
 <p align="center">
-  I'm backend developer and researcher.
+  💻 I'm backend developer and researcher.
 </p>
+<!-- <p align="center">
+  🔭 I’m currently working on ...
+</p> -->
+<!-- <p align="center">
+  🌱 I’m currently learning ...
+</p> -->
+<!-- <p align="center">
+  👯 I’m looking to collaborate on ...
+</p> -->
+<!-- <p align="center">
+  🤔 I’m looking for help with ...
+</p> -->
+<p align="center">
+  💬 Ask me about Python, Rust, Games, Procedural Content Generation.
+</p>
+<p align="center">
+  📫 How to reach me: <a href="mailto:bmfviana@gmail.com" target="_blank">bmfviana@gmail.com</a>
+</p>
+<p align="center">
+  😄 Pronouns: He/Him
+</p>
+<!-- <p align="center">
+  ⚡ Fun fact: ...
+</p> -->
 
 <!-- My interests lay mainly in Evolutionary Systems, Artificial Intelligence, and Procedural Content Generation for games. -->
 
 
-<h3 align="center"> 📫 How to reach me </h3>
+<h3 align="center"> Where to find me </h3>
 
 
 <p align="center">
