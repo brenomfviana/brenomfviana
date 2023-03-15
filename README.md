@@ -46,7 +46,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" >
   </a>
   <!-- Research -->
-  <a href="https://orcid.org/my-orcid?orcid=0000-0003-3441-508X" target="_blank">
+  <a href="https://orcid.org/0000-0003-3441-508X" target="_blank">
     <img src="https://img.shields.io/badge/-Orcid-a6ce39?style=for-the-badge&logo=Orcid&logoColor=white" >
   </a>
   <a href="https://scholar.google.com.br/citations?user=VjiBzH8AAAAJ" target="_blank">
