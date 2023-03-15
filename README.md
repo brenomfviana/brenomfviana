@@ -85,8 +85,11 @@
 <!--   <a href="https://github.com/brenomfviana" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" >
   </a>
-  <a href="" target="_blank">
+  <a href="https://stackoverflow.com/users/13779034/breno-viana" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" >
+  </a>
+  <a href="https://stackoverflow.com/users/13779034/breno-viana">
+    <img src="https://img.shields.io/stackexchange/stackoverflow/r/13779034?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge&cacheSeconds=86400" target="_blank">
   </a>
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" >
