@@ -184,5 +184,4 @@
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=brenomfviana) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=brenomfviana&label=Profile%20views&color=3FC1C9&style=for-the-badge" >
-  <img src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white" >
 </p>
