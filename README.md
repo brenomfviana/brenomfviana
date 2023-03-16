@@ -19,10 +19,10 @@
   💬 Ask me about Python, Rust, Games, Procedural Content Generation.
 </p>
 <p align="center">
-  📫 How to reach me: <a href="mailto:bmfviana@gmail.com" target="_blank">bmfviana@gmail.com</a>
+  📫 How to reach me: <a href="mailto:bmfviana@gmail.com" target="_blank">bmfviana@gmail.com</a>.
 </p>
 <p align="center">
-  😄 Pronouns: He/Him
+  😄 Pronouns: He/Him.
 </p>
 <!-- <p align="center">
   ⚡ Fun fact: ...
