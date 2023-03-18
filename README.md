@@ -31,110 +31,81 @@
 <!-- My interests lay mainly in Evolutionary Systems, Artificial Intelligence, and Procedural Content Generation for games. -->
 
 
-<!-- <h3 align="center"> Currently working on </h3> -->
-<!-- - Project -->
-<!-- <p align="center">
-  <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" >
-</p> -->
-
-
-<h3 align="center"> Paper published </h3>
-
-<ol>
-  <li>
-    <strong>VIANA, BRENO M. F.</strong>; PEREIRA, LEONARDO T.; TOLEDO, CLAUDIO F. M.; DOS SANTOS, SELAN R.; MAIA, SILVIA M. D. M.. Feasible-Infeasible Two-Population Genetic Algorithm to evolve dungeon levels with dependencies in barrier mechanics. APPLIED SOFT COMPUTING, v. 119, p. 108586, 2022.
-  </li>
-  <li>
-    PEREIRA, LEONARDO TORTORO; <strong>VIANA, BRENO M. F.</strong>; TOLEDO, CLAUDIO F. M.. A System for Orchestrating Multiple Procedurally Generated Content for Different Player Profiles. IEEE Transactions on Games, v. 14, p. 1-11, 2022.
-  </li>
-  <li>
-    <strong>VIANA, BRENO M. F.</strong>; DOS SANTOS, SELAN R.. Procedural Dungeon Generation: A Survey. Journal on Interactive Systems, v. 12, p. 83-101, 2021. 
-  </li>
-  <a href="http://lattes.cnpq.br/9947524968867338"> More </a>
-<ol>
-
-
-<!-- <h3 align="center"> Open source projects </h3> -->
-<!-- - Project -->
-
-
-<!-- <h3 align="center"> Interesting projects </h3> -->
-<!-- - Project -->
-
-
 <h3 align="center"> Where to find me </h3>
 
 <p align="center">
 <!--   <a href="" target="_blank">
     <img src="" >
   </a> -->
-<!-- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bmfviana@gmail.com) -->
+<!--   <a href="bmfviana@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail" >
+  </a> -->
   <a href="https://linktr.ee/brenomfviana" target="_blank">
-    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" >
+    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
   </a>
   <a href="https://www.linkedin.com/in/brenomfviana" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" >
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" >
   </a>
   <!-- Research -->
   <a href="https://orcid.org/0000-0003-3441-508X" target="_blank">
-    <img src="https://img.shields.io/badge/-Orcid-a6ce39?style=for-the-badge&logo=Orcid&logoColor=white" >
+    <img src="https://img.shields.io/badge/-Orcid-a6ce39?style=for-the-badge&logo=Orcid&logoColor=white" alt="ORCID" >
   </a>
   <a href="https://scholar.google.com.br/citations?user=VjiBzH8AAAAJ" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" >
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" >
   </a>
   <a href="https://www.researchgate.net/profile/Breno-Viana" target="_blank">
-    <img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" >
+    <img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt="Research Gate" >
   </a>
 </p>
 <p align="center">
   <!-- Social -->
   <a href="https://twitter.com/brenomfviana" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" >
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" >
   </a>
   <a href="https://www.youtube.com/@brenomfviana" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" >
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" >
   </a>
   <a href="https://www.instagram.com/brenomfviana" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" >
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" >
   </a>
   <a href="https://www.tiktok.com/@brenomfviana" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" >
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" >
   </a>
 <!--   <a href="https://www.twitch.tv/brenomfviana">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" >
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" >
   </a> -->
   
   <!-- Blog -->
   <a href="https://dev.to/brenomfviana" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" >
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to" >
   </a>
   <a href="https://brenomfviana.medium.com" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" >
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" >
   </a>
 <!--   <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" >
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" >
   </a> -->
   
   <!-- Dev -->
 <!--   <a href="https://github.com/brenomfviana" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" >
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" >
   </a>
   <a href="https://stackoverflow.com/users/13779034/breno-viana" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" >
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" >
   </a>
-  <a href="https://stackoverflow.com/users/13779034/breno-viana">
-    <img src="https://img.shields.io/stackexchange/stackoverflow/r/13779034?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge&cacheSeconds=86400" target="_blank">
+  <a href="https://stackoverflow.com/users/13779034/breno-viana" target="_blank">
+    <img src="https://img.shields.io/stackexchange/stackoverflow/r/13779034?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge&cacheSeconds=86400" alt="StackOverflow">
   </a>
   <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" >
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" >
   </a> -->
   
   <!-- Games: https://github.com/alexandresanlim/Badges4-README.md-Profile#-games- -->
-<!--   <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://brenomfviana.itch.io/" >
+<!--   <a href="https://brenomfviana.itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io" >
   </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/brenomfviana/" >
+  <a href="https://steamcommunity.com/id/brenomfviana/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" >
   </a> -->
 </p>
 
@@ -208,7 +179,7 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" >
   <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white" alt="Obsidian" >
 <!--   <img src="https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white" alt="GitBook" > -->
-  <img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI">
+<!--   <img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI"> -->
 <!--   <img src=""> -->
   <!-- More Badges: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 </p>
@@ -225,6 +196,37 @@
   
   <img src="https://github-profile-trophy.vercel.app/?username=brenomfviana&amp;column=7" style="max-width: 100%;">
 </p>
+
+
+<!-- <h3 align="center"> Currently working on </h3> -->
+<!-- - Project -->
+<!-- <p align="center">
+  <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" >
+</p> -->
+
+
+<h3 align="center"> Papers published </h3>
+
+<ol>
+  <li>
+    <strong>VIANA, BRENO M. F.</strong>; PEREIRA, LEONARDO T.; TOLEDO, CLAUDIO F. M.; DOS SANTOS, SELAN R.; MAIA, SILVIA M. D. M.. Feasible-Infeasible Two-Population Genetic Algorithm to evolve dungeon levels with dependencies in barrier mechanics. APPLIED SOFT COMPUTING, v. 119, p. 108586, 2022.
+  </li>
+  <li>
+    PEREIRA, LEONARDO TORTORO; <strong>VIANA, BRENO M. F.</strong>; TOLEDO, CLAUDIO F. M.. A System for Orchestrating Multiple Procedurally Generated Content for Different Player Profiles. IEEE Transactions on Games, v. 14, p. 1-11, 2022.
+  </li>
+  <li>
+    <strong>VIANA, BRENO M. F.</strong>; DOS SANTOS, SELAN R.. Procedural Dungeon Generation: A Survey. Journal on Interactive Systems, v. 12, p. 83-101, 2021. 
+  </li>
+  <a href="http://lattes.cnpq.br/9947524968867338"> More </a>
+<ol>
+
+
+<!-- <h3 align="center"> Open source projects </h3> -->
+<!-- - Project -->
+
+
+<!-- <h3 align="center"> Interesting projects </h3> -->
+<!-- - Project -->
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=brenomfviana) -->
 <p align="center">
