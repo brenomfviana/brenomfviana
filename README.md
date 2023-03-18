@@ -191,7 +191,7 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenomfviana&theme=graywhite&include_all_commits=true&count_private=true&show_icons=true" >
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenomfviana&layout=compact" >
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenomfviana&layout=compact&count_private=true" >
 
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brenomfviana&theme=white&ring=474b4f&hide_border=true&currStreakNum=24292e&fire=474b4f&currStreakLabel=3d3d3d" >
   
