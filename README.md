@@ -59,9 +59,9 @@
 </p>
 <p align="center">
   <!-- Social -->
-  <a href="https://twitter.com/brenomfviana" target="_blank">
+<!--   <a href="https://twitter.com/brenomfviana" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" >
-  </a>
+  </a> -->
   <a href="https://www.youtube.com/@brenomfviana" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" >
   </a>
