@@ -132,7 +132,7 @@
   <img src="https://img.shields.io/badge/django%20rest-165366?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" >
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" >
   <img src="https://img.shields.io/badge/Celery-6c8f12?style=for-the-badge&logo=celery&logoColor=ddf4a4" alt="Celery" >
-   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" > -->
+<!--   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" > -->
   <!-- Frontend -->
 <!--   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" > -->
 <!--   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" > -->
@@ -140,11 +140,11 @@
 <!--  <img src="https://img.shields.io/badge/Jekyll-333333?style=for-the-badge&logo=Jekyll&logoColor=c20000" alt="Jekyll" >
   <!-- IA -->
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" >
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" >
+  <img src="https://img.shields.io/badge/Pandas-0b0153?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" >
   <!-- Databases -->
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" >
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" >
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis" >
+  <img src="https://img.shields.io/badge/MySQL-00618a?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" >
+  <img src="https://img.shields.io/badge/redis-%23a61808.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis" >
 <!--   <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" > -->
 <!--   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" > -->
   <!-- Infra -->
@@ -161,10 +161,10 @@
 <p align="center">
   <!-- GameDev -->
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity3D" >
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" alt="Godot" >
+  <img src="https://img.shields.io/badge/Godot-478cbf?style=for-the-badge&logo=GodotEngine&logoColor=white" alt="Godot" >
   <!-- IDEs -->
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" >
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm" >
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=21d78a" alt="PyCharm" >
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook" >
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Google Colab" >
 </p>
