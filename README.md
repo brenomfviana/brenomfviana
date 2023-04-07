@@ -119,25 +119,25 @@
   <img src="https://img.shields.io/badge/C%23-05930c?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" >
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" >
 <!--   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" > -->
-  <img src="https://img.shields.io/badge/Java-f29011?style=for-the-badge&logo=openjdk" alt="Java" >
+<!--  <img src="https://img.shields.io/badge/Java-f29011?style=for-the-badge&logo=openjdk" alt="Java" >
 <!--   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" > -->
 <!--   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" > -->
-<!--   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" > -->
-<!--   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" > -->
-<!--   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" > -->
+<!--   <img src="https://img.shields.io/badge/HTML5-e44d26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" > -->
+<!--   <img src="https://img.shields.io/badge/CSS3-2062b1?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" > -->
+<!--   <img src="https://img.shields.io/badge/Dart-00c5b5?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" > -->
 </p>
 <p align="center">
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django" >
-  <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" >
+  <img src="https://img.shields.io/badge/django%20rest-165366?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" >
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" >
   <img src="https://img.shields.io/badge/Celery-6c8f12?style=for-the-badge&logo=celery&logoColor=ddf4a4" alt="Celery" >
-<!--   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" > -->
+   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" > -->
   <!-- Frontend -->
 <!--   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" > -->
 <!--   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" > -->
-<!--   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" > -->
-  <img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white" alt="Jekyll" >
+<!--   <img src="https://img.shields.io/badge/Flutter-32b9f6?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" > -->
+<!--  <img src="https://img.shields.io/badge/Jekyll-333333?style=for-the-badge&logo=Jekyll&logoColor=c20000" alt="Jekyll" >
   <!-- IA -->
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" >
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" >
