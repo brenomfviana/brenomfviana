@@ -41,10 +41,10 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail" >
   </a> -->
   <a href="https://linktr.ee/brenomfviana" target="_blank">
-    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
+    <img src="https://img.shields.io/badge/linktree-254f1a?style=for-the-badge&logo=linktree&logoColor=d2e823" alt="Linktree">
   </a>
   <a href="https://www.linkedin.com/in/brenomfviana" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" >
+    <img src="https://img.shields.io/badge/-LinkedIn-0c64c5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" >
   </a>
   <!-- Research -->
   <a href="https://orcid.org/0000-0003-3441-508X" target="_blank">
@@ -63,16 +63,16 @@
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" >
   </a> -->
   <a href="https://www.youtube.com/@brenomfviana" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" >
+    <img src="https://img.shields.io/badge/YouTube-fe0002?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" >
   </a>
   <a href="https://www.instagram.com/brenomfviana" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" >
   </a>
   <a href="https://www.tiktok.com/@brenomfviana" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" >
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=whie" alt="TikTok" >
   </a>
 <!--   <a href="https://www.twitch.tv/brenomfviana">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" >
+    <img src="https://img.shields.io/badge/Twitch-9146ff?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" >
   </a> -->
   
   <!-- Blog -->
@@ -97,15 +97,15 @@
     <img src="https://img.shields.io/stackexchange/stackoverflow/r/13779034?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge&cacheSeconds=86400" alt="StackOverflow">
   </a>
   <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" >
+    <img src="https://img.shields.io/badge/Kaggle-37bae8?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" >
   </a> -->
   
   <!-- Games: https://github.com/alexandresanlim/Badges4-README.md-Profile#-games- -->
 <!--   <a href="https://brenomfviana.itch.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io" >
+    <img src="https://img.shields.io/badge/Itch.io-ff5c5a?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io" >
   </a>
   <a href="https://steamcommunity.com/id/brenomfviana/" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" >
+    <img src="https://img.shields.io/badge/Steam-03174a?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" >
   </a> -->
 </p>
 
@@ -114,12 +114,12 @@
 
 <p align="center">
   <!-- Languages https://github.com/alexandresanlim/Badges4-README.md-Profile#-languages- -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" >
-  <img src="https://img.shields.io/badge/Rust-E57324?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" >
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" >
+  <img src="https://img.shields.io/badge/Python-3670a0?style=for-the-badge&logo=python&logoColor=ffdd58" alt="Python" >
+  <img src="https://img.shields.io/badge/Rust-ef6526?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" >
+  <img src="https://img.shields.io/badge/C%23-05930c?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" >
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" >
 <!--   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" > -->
-  <img src="https://img.shields.io/badge/Java-0a85bf?style=for-the-badge&logo=openjdk" alt="Java" >
+  <img src="https://img.shields.io/badge/Java-f29011?style=for-the-badge&logo=openjdk" alt="Java" >
 <!--   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" > -->
 <!--   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" > -->
 <!--   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" > -->
