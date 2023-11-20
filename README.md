@@ -79,9 +79,9 @@
   <a href="https://dev.to/brenomfviana" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to" >
   </a>
-  <a href="https://brenomfviana.medium.com" target="_blank">
+<!--   <a href="https://brenomfviana.medium.com" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" >
-  </a>
+  </a> -->
 <!--   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" >
   </a> -->
