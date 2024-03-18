@@ -1,7 +1,7 @@
 <h2 align="center"> Hi there, I'm Breno Viana (brenomfviana) 👋 </h2>
 
 <p align="center">
-  💻 I'm backend developer and researcher.
+  💻 I'm fullstack developer and researcher.
 </p>
 <!-- <p align="center">
   🔭 I’m currently working on ...
@@ -113,31 +113,37 @@
 <h3 align="center"> Tools </h3>
 
 <p align="center">
+  <!--   <img src="" alt="" > -->
   <!-- Languages https://github.com/alexandresanlim/Badges4-README.md-Profile#-languages- -->
   <img src="https://img.shields.io/badge/Python-3670a0?style=for-the-badge&logo=python&logoColor=ffdd58" alt="Python" >
   <img src="https://img.shields.io/badge/Rust-ef6526?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" >
+  <img src="https://img.shields.io/badge/Java-f29011?style=for-the-badge&logo=openjdk" alt="Java" >
   <img src="https://img.shields.io/badge/C%23-05930c?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" >
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" >
 <!--   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" > -->
-<!--  <img src="https://img.shields.io/badge/Java-f29011?style=for-the-badge&logo=openjdk" alt="Java" >
 <!--   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" > -->
 <!--   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" > -->
 <!--   <img src="https://img.shields.io/badge/HTML5-e44d26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" > -->
 <!--   <img src="https://img.shields.io/badge/CSS3-2062b1?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" > -->
 <!--   <img src="https://img.shields.io/badge/Dart-00c5b5?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" > -->
+<!--   <img src="https://img.shields.io/badge/Kotlin-B125EA&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" > -->
 </p>
 <p align="center">
+  <!--   <img src="" alt="" > -->
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django" >
   <img src="https://img.shields.io/badge/django%20rest-165366?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" >
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" >
+<!--   <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="FastAPI" > -->
+<!--   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" > -->
+<!--   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" > -->
+<!--   <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot" > -->
   <img src="https://img.shields.io/badge/Celery-6c8f12?style=for-the-badge&logo=celery&logoColor=ddf4a4" alt="Celery" >
 <!--   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" > -->
   <!-- Frontend -->
 <!--   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" > -->
-<!--   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" > -->
+  <img src="https://img.shields.io/badge/Jekyll-333333?style=for-the-badge&logo=Jekyll&logoColor=c20000" alt="Jekyll" >
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" >
 <!--   <img src="https://img.shields.io/badge/Flutter-32b9f6?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" > -->
-<!--  <img src="https://img.shields.io/badge/Jekyll-333333?style=for-the-badge&logo=Jekyll&logoColor=c20000" alt="Jekyll" >
   <!-- IA -->
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" >
   <img src="https://img.shields.io/badge/Pandas-0b0153?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" >
@@ -149,7 +155,8 @@
 <!--   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" > -->
   <!-- Infra -->
 <!--   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" > -->
-<!--   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" > -->
+<!--   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" > -->
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" >
 <!--   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" > -->
 <!--   <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" > -->
 <!--   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" > -->
@@ -159,31 +166,38 @@
 <!--   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium" > -->
 </p>
 <p align="center">
-  <!-- GameDev -->
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity3D" >
-  <img src="https://img.shields.io/badge/Godot-478cbf?style=for-the-badge&logo=GodotEngine&logoColor=white" alt="Godot" >
+  <!--   <img src="" alt="" > -->
   <!-- IDEs -->
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" >
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=21d78a" alt="PyCharm" >
+<!--   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" > -->
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook" >
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Google Colab" >
+  <!-- GameDev -->
+  <img src="https://img.shields.io/badge/Godot-478cbf?style=for-the-badge&logo=GodotEngine&logoColor=white" alt="Godot" >
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity3D" >
 </p>
 <p align="center">
+  <!--   <img src="" alt="" > -->
   <!-- OSs -->
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" >
   <!-- Others -->
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" >
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" >
 <!--   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash" > -->
 <!--   <img src="https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white" alt="Starship" > -->
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="LaTeX" >
   <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" alt="Overleaf" >
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" >
-  <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white" alt="Obsidian" >
+<!--   <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white" alt="Obsidian" > -->
 <!--   <img src="https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white" alt="GitBook" > -->
-<!--   <img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI"> -->
-<!--   <img src=""> -->
-  <!-- More Badges: https://github.com/alexandresanlim/Badges4-README.md-Profile https://shields.io/ -->
+<!--   <img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" > -->
+<!--   <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" alt="GitKraken" > -->
 </p>
+<!-- More Badges: -->
+<!--   https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+<!--   https://shields.io/ -->
+<!--   https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#-funding- -->
 
 
 <h3 align="center"> Coding activity </h3>
