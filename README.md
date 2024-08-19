@@ -118,6 +118,7 @@
   <img src="https://img.shields.io/badge/Python-3670a0?style=for-the-badge&logo=python&logoColor=ffdd58" alt="Python" >
   <img src="https://img.shields.io/badge/Rust-ef6526?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" >
   <img src="https://img.shields.io/badge/Java-f29011?style=for-the-badge&logo=openjdk" alt="Java" >
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF" alt="TypeScript" >
   <img src="https://img.shields.io/badge/C%23-05930c?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" >
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" >
 <!--   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" > -->
@@ -141,9 +142,9 @@
 <!--   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" > -->
   <!-- Frontend -->
 <!--   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" > -->
-  <img src="https://img.shields.io/badge/Jekyll-333333?style=for-the-badge&logo=Jekyll&logoColor=c20000" alt="Jekyll" >
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" >
 <!--   <img src="https://img.shields.io/badge/Flutter-32b9f6?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" > -->
+  <img src="https://img.shields.io/badge/Jekyll-333333?style=for-the-badge&logo=Jekyll&logoColor=c20000" alt="Jekyll" >
   <!-- IA -->
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" >
   <img src="https://img.shields.io/badge/Pandas-0b0153?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" >
@@ -159,7 +160,7 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" >
 <!--   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" > -->
 <!--   <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" > -->
-<!--   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" > -->
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" >
 <!--   <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" > -->
 <!--   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" > -->
   <!-- Tests -->
