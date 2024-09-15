@@ -1,7 +1,7 @@
 <h2 align="center"> Hi there, I'm Breno Viana (brenomfviana) 👋 </h2>
 
 <p align="center">
-  💻 I'm fullstack developer and researcher.
+  💻 I'm software developer and researcher.
 </p>
 <!-- <p align="center">
   🔭 I’m currently working on ...
@@ -28,7 +28,7 @@
   ⚡ Fun fact: ...
 </p> -->
 
-<!-- My interests lay mainly in Evolutionary Systems, Artificial Intelligence, and Procedural Content Generation for games. -->
+<!-- My interests lay mainly in Web Development, Evolutionary Systems, Artificial Intelligence, and Procedural Content Generation for games. -->
 
 
 <h3 align="center"> Where to find me </h3>
@@ -118,14 +118,13 @@
   <img src="https://img.shields.io/badge/Python-3670a0?style=for-the-badge&logo=python&logoColor=ffdd58" alt="Python" >
   <img src="https://img.shields.io/badge/Rust-ef6526?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" >
   <img src="https://img.shields.io/badge/Java-f29011?style=for-the-badge&logo=openjdk" alt="Java" >
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF" alt="TypeScript" >
   <img src="https://img.shields.io/badge/C%23-05930c?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" >
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" >
 <!--   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" > -->
-<!--   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" > -->
-<!--   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" > -->
-<!--   <img src="https://img.shields.io/badge/HTML5-e44d26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" > -->
-<!--   <img src="https://img.shields.io/badge/CSS3-2062b1?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" > -->
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" >
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF" alt="TypeScript" >
+  <img src="https://img.shields.io/badge/HTML5-e44d26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" >
+  <img src="https://img.shields.io/badge/CSS3-2062b1?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" >
 <!--   <img src="https://img.shields.io/badge/Dart-00c5b5?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" > -->
 <!--   <img src="https://img.shields.io/badge/Kotlin-B125EA&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" > -->
 </p>
@@ -143,8 +142,8 @@
   <!-- Frontend -->
 <!--   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" > -->
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" >
-<!--   <img src="https://img.shields.io/badge/Flutter-32b9f6?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" > -->
   <img src="https://img.shields.io/badge/Jekyll-333333?style=for-the-badge&logo=Jekyll&logoColor=c20000" alt="Jekyll" >
+<!--   <img src="https://img.shields.io/badge/Flutter-32b9f6?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" > -->
   <!-- IA -->
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" >
   <img src="https://img.shields.io/badge/Pandas-0b0153?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" >
@@ -152,7 +151,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" >
   <img src="https://img.shields.io/badge/MySQL-00618a?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" >
   <img src="https://img.shields.io/badge/redis-%23a61808.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis" >
-<!--   <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" > -->
+  <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" >
 <!--   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" > -->
   <!-- Infra -->
 <!--   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" > -->
@@ -231,7 +230,7 @@
     PEREIRA, LEONARDO TORTORO; <strong>VIANA, BRENO M. F.</strong>; TOLEDO, CLAUDIO F. M.. A System for Orchestrating Multiple Procedurally Generated Content for Different Player Profiles. IEEE Transactions on Games, v. 14, p. 1-11, 2022.
   </li>
   <li>
-    <strong>VIANA, BRENO M. F.</strong>; DOS SANTOS, SELAN R.. Procedural Dungeon Generation: A Survey. Journal on Interactive Systems, v. 12, p. 83-101, 2021. 
+    <strong>VIANA, BRENO M. F.</strong>; DOS SANTOS, SELAN R.. Procedural Dungeon Generation: A Survey. Journal on Interactive Systems, v. 12, p. 83-101, 2021.
   </li>
   <a href="http://lattes.cnpq.br/9947524968867338"> More </a>
 <ol>
