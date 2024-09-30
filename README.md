@@ -207,9 +207,9 @@
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenomfviana&theme=graywhite&layout=compact&count_private=true&exclude_repo=sasinfra&hide=gdscript,jupyter%20notebook" >
 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brenomfviana&theme=white&ring=474b4f&hide_border=true&currStreakNum=24292e&fire=474b4f&currStreakLabel=3d3d3d" >
+  <!--   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brenomfviana&theme=white&ring=474b4f&hide_border=true&currStreakNum=24292e&fire=474b4f&currStreakLabel=3d3d3d" > -->
   
-  <img src="https://github-profile-trophy.vercel.app/?username=brenomfviana&amp;column=7" style="max-width: 100%;">
+  <!--   <img src="https://github-profile-trophy.vercel.app/?username=brenomfviana&amp;column=7" style="max-width: 100%;"> -->
 </p>
 
 
