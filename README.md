@@ -1,11 +1,11 @@
-<h2 align="center"> Hi there, I'm Breno Viana (brenomfviana) 👋 </h2>
+<h2 align="center"> Hi there, I'm Breno Viana 👋 </h2>
 
 <p align="center">
   💻 I'm software developer and researcher.
 </p>
-<!-- <p align="center">
-  🔭 I’m currently working on ...
-</p> -->
+<p align="center">
+  🔭 I’m currently working on Web Development.
+</p>
 <!-- <p align="center">
   🌱 I’m currently learning ...
 </p> -->
@@ -16,7 +16,7 @@
   🤔 I’m looking for help with ...
 </p> -->
 <p align="center">
-  💬 Ask me about Python, Rust, Games, Procedural Content Generation.
+  💬 Ask me about Python, Rust, Web Dev, Games, Procedural Content Generation.
 </p>
 <p align="center">
   📫 How to reach me: <a href="mailto:bmfviana@gmail.com" target="_blank">bmfviana@gmail.com</a>.
