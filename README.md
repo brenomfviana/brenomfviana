@@ -69,6 +69,7 @@
 </p>
 <!-- Frontend -->
 <p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" >
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" >
   <img src="https://img.shields.io/badge/Jekyll-333333?style=for-the-badge&logo=Jekyll&logoColor=c20000" alt="Jekyll" >
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" >
